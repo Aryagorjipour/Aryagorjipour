@@ -25,5 +25,5 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aryagorjipour&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aryagorjipour&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
