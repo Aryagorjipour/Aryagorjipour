@@ -25,11 +25,11 @@ Software Engineer at **Tadbir Pardaz IT Group** — capital markets and investme
 
 ### Stack I work in
 
-**Languages:** C#, Go, Rust, TypeScript
-**Backend:** .NET (ASP.NET Core, EF Core, SignalR), Go (HTTP, channels, gRPC), Rust (Tokio, axum, sqlx)
-**Data:** PostgreSQL, SQL Server, SQLite, MongoDB
-**Infra:** Docker, Linux, GitHub Actions, basic Kubernetes
-**Observability:** Splunk, OpenTelemetry, Serilog
+- **Languages:** C#, Go, Rust, TypeScript
+- **Backend:** .NET (ASP.NET Core, EF Core, SignalR), Go (HTTP, channels, gRPC), Rust (Tokio, axum, sqlx)
+- **Data:** PostgreSQL, SQL Server, SQLite, MongoDB
+- **Infra:** Docker, Linux, GitHub Actions, basic Kubernetes
+- **Observability:** Splunk, OpenTelemetry, Serilog
 
 ### Open to
 
