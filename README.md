@@ -13,7 +13,7 @@ Writing about backend systems, runtimes, and distributed systems at [dev.to/arys
 |---|---|---|
 | [logdive](https://github.com/Aryagorjipour/logdive) | Rust log query engine — SQLite-backed, follow mode, AND/OR grammar | v0.3.0 shipped |
 | [Amoosha](https://github.com/Amoosha-Platform) | Multi-tenant LMS platform in Go — 7 services, 80+ endpoints, full observability | Active development |
-| [hesia](https://github.com/Aryagorjipour/hesia) | Privacy-first, local-first Kanban + AI companion — PWA, no accounts, no cloud | v0.1.0 live |
+| [shipflow](https://github.com/Aryagorjipour/shipflow) | Track what you intend to ship. Celebrate what you actually shipped.  | v0.1.4 live |
 
 ## Learning in public
 
