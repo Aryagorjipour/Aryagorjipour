@@ -14,7 +14,7 @@ Built in Rust and shaped through real use, with a focus on useful queries,
 predictable behaviour, and honest technical trade-offs.
 
 [Repository](https://github.com/Aryagorjipour/logdive) ·
-[Release journal]([https://aryagorjipour.com/notes?journey=building-logdive](https://aryagorjipour.com/pursuit/logdive))
+[Release journal](https://aryagorjipour.com/pursuit/logdive)
 
 ## Elsewhere
 
